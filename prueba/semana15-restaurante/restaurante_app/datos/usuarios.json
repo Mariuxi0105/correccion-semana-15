@@ -1,0 +1,32 @@
+[
+	{
+		"id_usuario": 1,
+		"nombre": "Admin",
+		"apellido": "Restaurante",
+		"nombre_usuario": "admin",
+		"contrasena": "1234",
+		"correo_electronico": "admin@restaurante.com",
+		"fecha_nacimiento": "2000-01-01",
+		"rango": "Administrador"
+	},
+	{
+		"id_usuario": 2,
+		"nombre": "Anibal",
+		"apellido": "Manzano",
+		"nombre_usuario": "cajero",
+		"contrasena": "cajero2026",
+		"correo_electronico": "cajero@anibal.com",
+		"fecha_nacimiento": "2001-01-01",
+		"rango": "Cajero"
+	},
+	{
+		"id_usuario": 3,
+		"nombre": "Martha",
+		"apellido": "Valencia",
+		"nombre_usuario": "cocina",
+		"contrasena": "cocina2026",
+		"correo_electronico": "cocina@martha.com",
+		"fecha_nacimiento": "2002-02-02",
+		"rango": "Cocina"
+	}
+]
